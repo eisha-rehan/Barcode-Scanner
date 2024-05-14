@@ -3,7 +3,7 @@
 This code demonstrates the extraction of barcode from the images of prodcuts. With a simple UI, you can see the direct results as well as visual representation of the Digital Image Processing steps involved. 
 
 **Sample Image**
-!(results/image.png)
+![alt text](results/image.png)
 
 **Direct Results**
 ![alt text](results/image-1.png)
