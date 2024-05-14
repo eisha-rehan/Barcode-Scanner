@@ -1,13 +1,13 @@
-Barcode Scanner
+**Barcode Scanner**
 
 This code demonstrates the extraction of barcode from the images of prodcuts. With a simple UI, you can see the direct results as well as visual representation of the Digital Image Processing steps involved. 
 
-Sample Image
+**Sample Image**
 ![alt text](results/image.png)
 
-Direct Results
+**Direct Results**
 ![alt text](results/image-1.png)
 
-Visual Representation of Steps 
+**Visual Representation of Steps** 
 ![alt text](results/image-2.png)   ![alt text](results/image-3.png)   ![alt text](results/image-4.png)
 ![alt text](results/image-5.png)   ![alt text](results/image-6.png)   ![alt text](results/image-7.png)
